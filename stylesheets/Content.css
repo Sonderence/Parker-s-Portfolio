@@ -30,14 +30,14 @@ img
 
 .about a:hover 
 { 
-    color: #04d178;
+    color: #02a15c;
     transition: 0.5s;  
     font-family: sans-serif;
 } 
 
 .about span 
 {  
-    color: #04d178; 
+    color: #02a15c; 
     font-size: 13pt; 
     font-family: sans-serif;
 }
