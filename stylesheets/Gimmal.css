@@ -1,0 +1,518 @@
+.gimmal
+{
+    font-family: sans-serif;
+}
+
+/* title */ 
+.gimmal .title h1
+{
+    padding-top: 75px;
+    padding-bottom: 100px;
+    font-size: 30pt;
+    text-align: center; 
+    color: #3b6e8f;
+}
+
+/* overview */
+.gimmal .overview b 
+{
+    font-size: 13pt;
+}
+
+
+
+
+/* rows */ 
+
+.gimmal .overview 
+{
+    padding-bottom: 50px;
+}
+.gimmal .overview .columnleft 
+{
+  float: left;
+  width: 35%;  
+    margin-left: 30%;
+    line-height: 25pt;
+    
+}
+
+
+.gimmal .overview .columnright 
+{
+  float: left;
+  width: 15%;  
+    margin-left: 10%;
+    line-height: 17pt;
+    
+}
+
+.row:after 
+{
+  content: "";
+  display: table;
+  clear: both;
+   padding-bottom: 100px; 
+
+}   
+
+/* DOC SITE */
+
+.docsite 
+{
+    font-family: sans-serif; 
+    padding-top: 75px;
+} 
+
+.docsite h1
+{
+    color: #3b6e8f; 
+    text-align: center; 
+    padding-top: 200px;
+    padding-bottom: 200px; 
+    background-color: #e9e9e9; 
+    line-height: 25pt;
+    font-size: 27pt;
+}
+
+.docsite h2
+{
+    margin-left: 30%; 
+     margin-right: 30%;
+     color: #3b6e8f; 
+    line-height: 25pt;
+}
+
+.docsite span 
+{
+    color: #3b6e8f;
+    font-size: 13pt;
+}
+
+
+/* Product Documentation Re-Deisgn (title) */ 
+
+/* Research & Preparation (section) */ 
+
+/* Paligo */
+.paligo h2 
+{
+     margin-left: 30%; 
+     margin-right: 30%;
+     color: #3b6e8f; 
+    line-height: 25pt;
+    padding-top: 100px;
+}
+.paligo p
+{
+    padding-bottom: 100px;
+     margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+}
+
+/* User Pain Points */ 
+.painpoints h2 
+{
+    margin-left: 30%; 
+     margin-right: 30%;
+     color: #3b6e8f; 
+    line-height: 25pt;
+} 
+
+.painpoints p
+{
+     margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+}
+
+.painpoints ul 
+{
+    padding-bottom: 100px;
+}
+
+.painpoints li 
+{
+     margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+}
+
+/* Empathy Map */ 
+.empathy h2 
+{
+    margin-left: 30%; 
+     margin-right: 30%;
+     color: #3b6e8f; 
+    line-height: 25pt;
+    padding-top: 100px;
+} 
+
+.empathy p
+{
+      margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    padding-bottom: 50px;
+}
+
+.empathy img 
+{
+    margin: auto 400px;
+    float: left;
+    margin-bottom: 100px;
+}
+
+/* Competitive Analysis */
+.compete h2 
+{
+    margin-left: 30%; 
+     margin-right: 30%;
+     color: #3b6e8f; 
+    line-height: 25pt;
+} 
+
+.compete p
+{
+      margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    padding-bottom: 100px;
+}
+
+/* User Experience (section) */ 
+
+/* Objectives & Guidelines */  
+.oandg h2
+{
+    margin-left: 30%; 
+     margin-right: 30%;
+     color: #3b6e8f; 
+    line-height: 25pt;
+    padding-top: 100px;
+}
+
+.oandg p
+{
+    margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    padding-bottom: 100px;
+}
+
+
+/* Process */ 
+.process h2
+{
+    margin-left: 30%; 
+     margin-right: 30%;
+     color: #3b6e8f; 
+    line-height: 25pt;
+}
+
+.process p 
+{
+    margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    padding-bottom: 100px;
+}
+
+.process img 
+{
+    margin: auto;
+    float: left;
+    padding-bottom: 50px;
+    padding-top: 25px;
+}
+
+/* User Flow */ 
+.userflow h2
+{
+    margin-left: 30%; 
+     margin-right: 30%;
+     color: #3b6e8f; 
+    line-height: 25pt;
+}
+
+.userflow p 
+{
+    margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    padding-bottom: 100px;
+}
+
+.userflow img 
+{
+    margin: auto;
+    float: left;
+    margin-bottom: 100px;
+    padding-top: 25px;
+}
+
+/* Improved Navigation */
+.improvednav h2
+{
+    margin-left: 30%; 
+     margin-right: 30%;
+     color: #3b6e8f; 
+    line-height: 25pt;
+}
+
+.improvednav .nav p 
+{
+    margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+}
+.improvednav .nav img
+{
+    margin: auto 400px;
+    float: left;
+    margin-bottom: 50px;
+    padding-top: 25px; 
+}
+
+.improvednav .flex p
+{
+    margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    position: relative;
+}
+.improvednav .flex img
+{
+    margin: auto;
+    float: left;
+    margin-bottom: 50px;
+    padding-top: 25px; 
+}
+
+.improvednav .flex .rightnavpic img
+{
+    margin: auto 50px;
+    float: left;
+    margin-bottom: 50px;
+    padding-top: 25px; 
+}
+/* User Interface (section) */  
+.docsite .userinterface h1
+{
+    color: #3b6e8f; 
+    text-align: center; 
+    margin-top: 600px;
+    padding-top: 200px;
+    padding-bottom: 200px; 
+    background-color: #e9e9e9; 
+    line-height: 25pt;
+    font-size: 27pt;
+}
+.uioverview p
+{
+      margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.ui p
+{
+    margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    padding-bottom: 100px;
+    position: relative;
+}
+
+.ui .home
+{
+    margin-left: 15%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    padding-bottom: 25px;
+}
+
+.ui .home p
+{
+    margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    padding-bottom: 25px;
+    position: relative;
+}
+
+.ui .home img
+{
+    margin: auto 225px;
+    float: left;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+}
+
+.ui .notes
+{
+    margin-left: 15%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    padding-bottom: 100px;
+}
+
+.ui .note p
+{
+    margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    padding-bottom: 100px;
+    position: relative;
+}
+
+.ui .notes img
+{
+    margin: auto;
+    float: left;
+    margin-bottom: 50px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+
+.ui .diagrams
+{
+    margin-left: 15%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    padding-bottom: 100px;
+}
+
+.ui .diagrams p
+{
+    margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    padding-bottom: 100px;
+    position: relative;
+}
+
+.ui .diagrams img
+{
+    margin: auto;
+    float: left;
+    margin-bottom: 50px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+
+.ui .table
+{
+    margin-left: 15%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    padding-bottom: 100px;
+}
+
+.ui .table p
+{
+    margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    padding-bottom: 100px;
+    position: relative;
+}
+
+.ui .table img
+{
+    margin: auto;
+    float: left;
+    margin-bottom: 50px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+
+
+/* Future Doc Site (section) */ 
+
+/* Zendesk Integration */ 
+.zendesk h2
+{
+    margin-left: 30%; 
+     margin-right: 30%;
+     color: #3b6e8f; 
+    line-height: 25pt;
+    padding-top: 100px;
+}
+.zendesk p
+{
+    margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+}
+
+.zendesk img 
+{
+    margin: auto 400px;
+    float: left;
+    padding-top: 25px;
+    padding-bottom: 100px;
+}
+/* Personas */ 
+.personas h2
+{
+    margin-left: 30%; 
+     margin-right: 30%;
+     color: #3b6e8f; 
+    line-height: 25pt;
+}
+.personas p
+{
+    margin-left: 30%;  
+     margin-right: 30%;
+    line-height: 25pt;
+    padding-bottom: 100px;
+}
+
+/* What I Learned (section) */
+.learned h2 
+{
+    text-align: center;
+     color: #3b6e8f; 
+    line-height: 25pt;
+    padding-bottom: 50px;
+} 
+
+.learned img 
+{
+    margin-left: 22%;
+    padding-bottom: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
