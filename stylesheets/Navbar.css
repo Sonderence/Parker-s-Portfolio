@@ -23,7 +23,7 @@ h3
 }  
 span 
 {
-    color: #02a15c; 
+    color: #09b86c; 
     font-size: 22px; 
 }
 
@@ -65,7 +65,7 @@ a
 
 a:hover 
 { 
-    color: #02a15c;
+    color: #09b86c;
     transition: 0.5s; 
     font-family: sans-serif;
 } 
