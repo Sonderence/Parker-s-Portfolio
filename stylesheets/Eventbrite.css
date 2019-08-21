@@ -61,7 +61,8 @@ body{
 .eventbrite .final img 
 {
      padding-bottom: 100px;  
-    margin: auto 250px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
