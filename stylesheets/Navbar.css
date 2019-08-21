@@ -37,12 +37,14 @@ ul
     float: right; 
     margin-top: 23px;  
     margin-right: 50px;
+ position: absolute;
 }
 
 li
 { 
     display: inline-block;
     padding: 15px 30px; 
+   position: absolute;
 }
 
 
