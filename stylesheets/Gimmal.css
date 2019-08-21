@@ -11,6 +11,7 @@
     font-size: 30pt;
     text-align: center; 
     color: #3b6e8f;
+    width: 100%;
 }
 
 /* overview */
@@ -308,6 +309,7 @@
     background-color: #e9e9e9; 
     line-height: 25pt;
     font-size: 27pt;
+    width: 100%;
 }
 .uioverview p
 {
