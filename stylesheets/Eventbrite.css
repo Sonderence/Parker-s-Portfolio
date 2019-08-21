@@ -122,6 +122,11 @@ body{
 } 
 
 /* ideation */
+.eventbrite .ideation 
+{
+    width: 100%;
+}
+
 .eventbrite .ideation h1 
 {
      color: #F6682F; 
