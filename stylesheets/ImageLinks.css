@@ -125,7 +125,12 @@ body{
     margin: 10%;
 }
 
-
+@media screen and (max-width: 600px) {
+  .column 
+    {
+    display: none;
+     }
+} 
 
 
 
