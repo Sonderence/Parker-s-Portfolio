@@ -163,15 +163,16 @@ body{
 
 .empathy p
 {
-      margin-left: 30%;  
-     margin-right: 30%;
+      margin-left: auto;  
+     margin-right: auto;
     line-height: 25pt;
     padding-bottom: 50px;
 }
 
 .empathy img 
 {
-    margin: auto 400px;
+    margin-left: auto;
+ margin-right: auto;
     float: left;
     margin-bottom: 100px;
 }
@@ -464,7 +465,8 @@ body{
 
 .zendesk img 
 {
-    margin: auto 400px;
+    margin-left: auto;
+ margin-right: auto;
     float: left;
     padding-top: 25px;
     padding-bottom: 100px;
