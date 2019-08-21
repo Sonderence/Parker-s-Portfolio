@@ -35,6 +35,7 @@
      color: #F6682F; 
     text-align: center;
     font-size: 30pt;
+    width: 100%;
 } 
 
 .eventbrite .title p 
@@ -119,6 +120,7 @@
     background-color: #e9e9e9; 
     line-height: 25pt;
     font-size: 27pt;
+    width: 100%;
 } 
 
 /* ideas */  
@@ -232,6 +234,7 @@
      background-color: #e9e9e9; 
     line-height: 25pt;
     font-size: 27pt; 
+    width: 100%;
 }
 
 /* userinterviews */  
@@ -288,6 +291,7 @@
     background-color: #e9e9e9;
     line-height: 25pt;
     font-size: 27pt;
+    width: 100%;
 }
 
 
