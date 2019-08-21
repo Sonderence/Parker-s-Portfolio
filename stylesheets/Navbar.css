@@ -25,13 +25,19 @@ h3
     color: #04d178; 
     font-family: sans-serif;
 }  
-span 
+
+.navbar
+{
+ width: 100%;
+}
+
+.navbar span 
 {
     color: #09b86c; 
     font-size: 22px; 
 }
 
-ul 
+.navbar ul 
 { 
     width: auto; 
     float: right; 
@@ -39,7 +45,7 @@ ul
     margin-right: 50px;
 }
 
-li
+.navbar li
 { 
     display: inline-block;
     padding: 15px 30px; 
